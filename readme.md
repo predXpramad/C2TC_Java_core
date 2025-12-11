@@ -335,20 +335,7 @@ mvn spring-boot:run
 
 ---
 
-# 📌 **9. What This Module Achieves (as per Project Requirement)**
-
-✔ User Registration
-✔ User Login
-✔ Password Encryption
-✔ Duplicate Username Validation
-✔ Roles Support (University, Student, Company…)
-✔ Proper API Responses
-✔ Fully Tested with Postman
-✔ Clean Architecture & Documentation
-
----
-
-# 📌 **10. Next Modules (Future Work)**
+# 📌 **9. Next Modules (Future Work)**
 
 * Student Module
 * Company Module
