@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: placement-management-system
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/placementdb
+    username: placement_user
+    password: placement_pass
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  port: 8080
