@@ -4,7 +4,7 @@
 This repository contains the **User Management Module** developed as part of the **Shopping Mall Management System** case study.
 The module enables creating users, logging in, updating user details, retrieving user information, and logging out.
 
-This README provides a **complete step-by-step walkthrough** of the implementation, starting from Spring Boot setup → database configuration → code layers → testing with Postman.
+
 
 ---
 
